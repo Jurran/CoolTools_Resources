@@ -1,8 +1,8 @@
 # Cool Tools & Resources
 
-##Education/Training
+## Education/Training
 
-###Cybersecutiry
+### Cybersecutiry
 - Open University Introduction to cyber security: stay safe online (free) 
 https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab
 - Cybrary (free)
