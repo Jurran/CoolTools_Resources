@@ -22,9 +22,12 @@ https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-ex
 ## Programs/Apps
 
 ### General CompSci
-CS50
-WWW#Schools
-
+- Learning to Code Guide https://i.redd.it/anrzrr62k2s41.jpg
+- Harvard CS50 https://online-learning.harvard.edu/course/cs50-introduction-computer-science
+-- CS50 assignments https://cs50.harvard.edu/college/2020/spring/
+-- CS50 YouTube https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
+- WWW3 Schools 
+- Websitehub.com Programming Cheat Sheet https://i.redd.it/anrzrr62k2s41.jpg
 ### Linux
 - Linux Org https://www.linux.org/
 - Cygwin - Get that Linux feeling - on Windows https://www.cygwin.com/
@@ -34,5 +37,7 @@ WWW#Schools
 - Python - Home https://www.python.org/
 - Jupyter - Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages https://jupyter.org/
 - Google Python for Developers Class https://developers.google.com/edu/python
+- Python Guthub repository https://github.com/python
 
 ### Markdown
+- Adam Pritchard MarkDown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
