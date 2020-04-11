@@ -24,10 +24,11 @@ https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-ex
 ### General CompSci
 - Learning to Code Guide https://i.redd.it/anrzrr62k2s41.jpg
 - Harvard CS50 https://online-learning.harvard.edu/course/cs50-introduction-computer-science
--- CS50 assignments https://cs50.harvard.edu/college/2020/spring/
--- CS50 YouTube https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
-- WWW3 Schools 
-- Websitehub.com Programming Cheat Sheet https://i.redd.it/anrzrr62k2s41.jpg
+  - CS50 assignments https://cs50.harvard.edu/college/2020/spring/
+  - CS50 YouTube https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
+  - WWW3 Schools - https://www.w3schools.com/
+  - Websitehub.com Programming Cheat Sheet https://i.redd.it/anrzrr62k2s41.jpg
+
 ### Linux
 - Linux Org https://www.linux.org/
 - Cygwin - Get that Linux feeling - on Windows https://www.cygwin.com/
@@ -41,3 +42,7 @@ https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-ex
 
 ### Markdown
 - Adam Pritchard MarkDown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- Github Markdown Cheatsheet https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+- R Markdown Cheatsheet https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+- WordPress Markdown Cheatsheet https://wordpress.com/support/markdown-quick-reference/
+
