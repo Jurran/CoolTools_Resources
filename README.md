@@ -17,3 +17,22 @@ Heimdal Security
 https://cybersecuritycourse.co/#lessons
 The National Consortium for the Study of Terrorism and Responses to Terrorism
 https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-extremism 
+
+
+## Programs/Apps
+
+### General CompSci
+CS50
+WWW#Schools
+
+### Linux
+- Linux Org https://www.linux.org/
+- Cygwin - Get that Linux feeling - on Windows https://www.cygwin.com/
+- Ubuntu - My prefered distro https://ubuntu.com/
+
+### Python
+- Python - Home https://www.python.org/
+- Jupyter - Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages https://jupyter.org/
+- Google Python for Developers Class https://developers.google.com/edu/python
+
+### Markdown
