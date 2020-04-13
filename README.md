@@ -29,7 +29,8 @@ https://cybersecuritycourse.co/#lessons
 The National Consortium for the Study of Terrorism and Responses to Terrorism
 https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-extremism 
 
-
+### Statistics
+- Inferential Stats Guide https://i.redd.it/mgorexc6ypr41.jpg
 ## Programs/Apps/OS
  
 ###  Social Development Environment 
