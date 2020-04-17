@@ -13,6 +13,7 @@
   - CodeAcademy https://www.codecademy.com/
   - Lynda.com - Programming Foundations: Fundamentals (2011) https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html?utm_medium=ldc-partner&utm_source=SSPRC&utm_content=524&utm_campaign=CD16295&bid=524&aid=CD16295
   
+- ASCII/Hexa Tables http://www.asciitable.com/
   ### Cybersecutiry
 - Open University Introduction to cyber security: stay safe online (free) 
 https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab
