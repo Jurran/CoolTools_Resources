@@ -33,6 +33,10 @@ https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-ex
 
 ### Statistics
 - Inferential Stats Guide https://i.redd.it/mgorexc6ypr41.jpg
+
+### Tables
+- Tabula: Extract Tables from PDFs https://tabula.technology/
+
 ## Programs/Apps/OS
  
 ###  Social Development Environment 
