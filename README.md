@@ -15,7 +15,13 @@
   
 - ASCII/Hexa Tables http://www.asciitable.com/
 - Humble Bundle - https://www.humblebundle.com/
-  ### Cybersecutiry
+  ### Cybersecurity
+- InfraGuard NCR Resources (free)
+https://www.infragardncr.org/resources
+-Security Through Education - Social Engineering
+https://www.social-engineer.org/framework/se-tools/computer-based/social-engineer-toolkit-set/
+- CDSE.edu - Center for the Development of Security Excellence
+https://www.cdse.edu/toolkits/cybersecurity/training.html
 - Open University Introduction to cyber security: stay safe online (free) 
 https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab
 - Cybrary (free)
