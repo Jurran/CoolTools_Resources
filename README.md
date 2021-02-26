@@ -16,6 +16,8 @@
 - ASCII/Hexa Tables http://www.asciitable.com/
 - Humble Bundle - https://www.humblebundle.com/
   ### Cybersecurity
+- Professor Messer (free A+, Security+, Network+, Linux+ videos) 
+https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/
 - InfraGuard NCR Resources (free)
 https://www.infragardncr.org/resources
 -Security Through Education - Social Engineering
