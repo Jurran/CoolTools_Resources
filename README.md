@@ -21,7 +21,7 @@
 https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/
 - InfraGuard NCR Resources (free)
 https://www.infragardncr.org/resources
--Security Through Education - Social Engineering
+- Security Through Education - Social Engineering
 https://www.social-engineer.org/framework/se-tools/computer-based/social-engineer-toolkit-set/
 - CDSE.edu - Center for the Development of Security Excellence
 https://www.cdse.edu/toolkits/cybersecurity/training.html
@@ -35,10 +35,13 @@ https://www.us-cert.gov/ics
 http://opensecuritytraining.info/Training.html
 - CyberAces (free)
 https://www.cyberaces.org/courses.html
-Heimdal Security
+- Heimdal Security
 https://cybersecuritycourse.co/#lessons
-The National Consortium for the Study of Terrorism and Responses to Terrorism
+- The National Consortium for the Study of Terrorism and Responses to Terrorism
 https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-extremism 
+- OSINT Framework https://osintframework.com/
+- Krebs on Security https://krebsonsecurity.com/
+- Schnier of Security https://www.schneier.com/
 
 ### Statistics
 - Inferential Stats Guide https://i.redd.it/mgorexc6ypr41.jpg
