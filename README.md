@@ -7,13 +7,12 @@
 - Harvard CS50 https://online-learning.harvard.edu/course/cs50-introduction-computer-science
   - CS50 assignments https://cs50.harvard.edu/college/2020/spring/
   - CS50 YouTube https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
-  - W3 Schools  https://www.w3schools.com/
-  - Websitehub.com Programming Cheat Sheet https://i.redd.it/anrzrr62k2s41.jpg Challenges
-  - FreeCodeCamp  https://www.freecodecamp.org/
-  - CodeAcademy https://www.codecademy.com/
-  - O'Reilly for Libraries https://www.aacpl.net/form/oreilly
-  - Lynda.com - Programming Foundations: Fundamentals (2011) https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html?utm_medium=ldc-partner&utm_source=SSPRC&utm_content=524&utm_campaign=CD16295&bid=524&aid=CD16295
-  
+- W3 Schools  https://www.w3schools.com/
+- Websitehub.com Programming Cheat Sheet https://i.redd.it/anrzrr62k2s41.jpg Challenges
+- FreeCodeCamp  https://www.freecodecamp.org/
+- CodeAcademy https://www.codecademy.com/
+- O'Reilly for Libraries https://www.aacpl.net/form/oreilly
+- Lynda.com - Programming Foundations: Fundamentals (2011) https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html?utm_medium=ldc-partner&utm_source=SSPRC&utm_content=524&utm_campaign=CD16295&bid=524&aid=CD16295
 - ASCII/Hexa Tables http://www.asciitable.com/
 - Humble Bundle - https://www.humblebundle.com/
 
