@@ -67,6 +67,7 @@ https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-ex
 - Sublime Text https://www.sublimetext.com/
 - Notepad++ https://notepad-plus-plus.org/
 - Atom (by GitHub) https://atom.io/
+- Bracket - A modern, open source text editor that understands web design http://brackets.io/
 
 ### Command Line
 - Command Line Crash Course https://www.computervillage.org/articles/CommandLine.pdf
