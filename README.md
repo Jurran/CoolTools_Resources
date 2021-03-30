@@ -83,6 +83,10 @@ https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-ex
 - Google Python for Developers Class https://developers.google.com/edu/python
 - Python Guthub repository https://github.com/python
 
+### R
+- R Project - https://www.r-project.org/
+- Swirl - swirl teaches you R programming and data science interactively, at your own pace, and right in the R console! https://swirlstats.com/
+
 ### SQL
 - pgAdmin - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world https://www.pgadmin.org/
 
@@ -95,7 +99,9 @@ https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-ex
 ### Bootstrap 
 
 - Bootstrap - Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.   https://getbootstrap.com/
-
+- Bootstrap Themes https://themes.getbootstrap.com/
+- Free Boostrap Themes https://bootswatch.com/
+- Start Bootstrap https://startbootstrap.com/
 
 ### Color Picker 
 Sip - A modern color picker built for designers and developers, that allows you to collect, organize and edit colors. http://sipapp.io/
