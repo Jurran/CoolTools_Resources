@@ -86,6 +86,9 @@ https://www.start.umd.edu/new-approaches-countering-terror-countering-violent-ex
 ### R
 - R Project - https://www.r-project.org/
 - Swirl - swirl teaches you R programming and data science interactively, at your own pace, and right in the R console! https://swirlstats.com/
+- R Studio - RStudio is an integrated development environment (IDE) for R. It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management. - https://www.rstudio.com/products/rstudio/
+- R Studio - Education - https://education.rstudio.com/learn/beginner/
+- R for Data Science (Book) - https://r4ds.had.co.nz/introduction.html
 
 ### SQL
 - pgAdmin - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world https://www.pgadmin.org/
